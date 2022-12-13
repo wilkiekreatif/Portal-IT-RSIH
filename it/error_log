@@ -1,0 +1,589 @@
+[13-Sep-2022 11:51:49 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 11:51:49 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 11:51:49 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 11:51:49 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 11:51:49 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 13:30:18 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[13-Sep-2022 13:30:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[13-Sep-2022 13:30:18 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[13-Sep-2022 13:30:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[13-Sep-2022 13:30:29 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 13:51:53 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 15:48:11 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[13-Sep-2022 15:48:11 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[13-Sep-2022 15:48:11 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[13-Sep-2022 15:48:11 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[13-Sep-2022 15:48:24 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 15:58:18 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 15:59:58 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:00:56 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 26
+[13-Sep-2022 16:01:02 Asia/Jakarta] PHP Notice:  Undefined index: activity in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 8
+[13-Sep-2022 16:01:02 Asia/Jakarta] PHP Notice:  Undefined index: bagian in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 9
+[13-Sep-2022 16:01:02 Asia/Jakarta] PHP Notice:  Undefined index: kendala in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 10
+[13-Sep-2022 16:01:02 Asia/Jakarta] PHP Notice:  Undefined index: tindaklanjut in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 11
+[13-Sep-2022 16:01:02 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 26
+[13-Sep-2022 16:01:05 Asia/Jakarta] PHP Notice:  Undefined index: activity in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 8
+[13-Sep-2022 16:01:05 Asia/Jakarta] PHP Notice:  Undefined index: bagian in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 9
+[13-Sep-2022 16:01:05 Asia/Jakarta] PHP Notice:  Undefined index: kendala in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 10
+[13-Sep-2022 16:01:05 Asia/Jakarta] PHP Notice:  Undefined index: tindaklanjut in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 11
+[13-Sep-2022 16:01:05 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 26
+[13-Sep-2022 16:01:07 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:01:16 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 26
+[13-Sep-2022 16:01:19 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:02:06 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 26
+[13-Sep-2022 16:03:41 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:03:53 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 16
+[13-Sep-2022 16:03:53 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 26
+[13-Sep-2022 16:03:56 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[13-Sep-2022 16:03:56 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[13-Sep-2022 16:03:56 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[13-Sep-2022 16:03:56 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[13-Sep-2022 16:04:01 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:01 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:01 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:01 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:01 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:10 Asia/Jakarta] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/rsintanh/it.rsintanhusada.com/it/vact.php on line 26
+[13-Sep-2022 16:04:12 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:12 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:12 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:12 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:04:12 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:05 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:05 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:05 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:05 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:05 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:20 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:20 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:20 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:20 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[13-Sep-2022 16:21:20 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:09:41 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:09:41 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:09:41 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:09:41 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:09:41 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:10:13 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:10:13 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:10:13 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:10:13 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:10:13 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:42 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:42 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:42 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:42 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:42 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:56 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:56 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:56 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:56 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:18:56 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:19:31 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:19:31 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:19:31 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:19:31 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:19:31 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:19:31 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:20:16 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:20:16 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:20:16 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:20:16 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:20:16 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 14:20:16 Asia/Jakarta] PHP Notice:  Undefined index: waktu_komplain in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:29:02 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[14-Sep-2022 15:29:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[14-Sep-2022 15:29:02 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[14-Sep-2022 15:29:02 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[14-Sep-2022 15:29:49 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[14-Sep-2022 15:29:49 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[14-Sep-2022 15:29:49 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[14-Sep-2022 15:29:49 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 180
+[14-Sep-2022 15:32:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 185
+[15-Sep-2022 08:21:42 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[15-Sep-2022 08:21:42 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[15-Sep-2022 08:21:42 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[15-Sep-2022 08:21:42 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:22:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:29:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:30:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 181
+[15-Sep-2022 08:35:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 186
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:55:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:57:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:58:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:59:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:59:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:59:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:59:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:59:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:59:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 08:59:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 08:59:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:14:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:14:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:14:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:14:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:14:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:14:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:14:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:14:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:16:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:17:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:17:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:17:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:17:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:17:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:17:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:17:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:17:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:21:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:21:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:21:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:21:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:21:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:21:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:21:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:21:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:21:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:21:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:21:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:21:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:21:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:21:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:21:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:21:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:23:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:23:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:48:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:48:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:48:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:48:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:48:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:48:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:48:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 182
+[15-Sep-2022 09:48:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 187
+[15-Sep-2022 09:51:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/export.php on line 44
+[15-Sep-2022 09:51:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/export.php on line 49
+[15-Sep-2022 09:51:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/export.php on line 44
+[15-Sep-2022 09:51:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/export.php on line 49
+[15-Sep-2022 09:51:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/export.php on line 44
+[15-Sep-2022 09:51:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/export.php on line 49
+[15-Sep-2022 09:51:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/export.php on line 44
+[15-Sep-2022 09:51:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rsintanh/it.rsintanhusada.com/it/export.php on line 49
+[15-Sep-2022 16:21:26 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[15-Sep-2022 16:21:26 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[20-Sep-2022 10:02:01 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[20-Sep-2022 10:02:01 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[20-Sep-2022 10:02:01 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[20-Sep-2022 10:02:01 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[26-Sep-2022 10:09:58 Asia/Jakarta] PHP Fatal error:  Cannot break/continue 1 level in /home/rsintanh/it.rsintanhusada.com/it/komputer.php on line 9
+[26-Sep-2022 10:39:41 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[26-Sep-2022 10:39:41 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[26-Sep-2022 10:39:41 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[26-Sep-2022 10:39:41 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[26-Sep-2022 10:39:41 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[26-Sep-2022 10:39:41 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[26-Sep-2022 10:39:41 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[26-Sep-2022 10:39:41 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[26-Sep-2022 10:41:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:41:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:41:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:41:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:42:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:42:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:43:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' onclick='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:43:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' onclick='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:43:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' onclick='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:43:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' onclick='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:43:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' onclick='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:43:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' onclick='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 10:43:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '' onclick='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 201
+[26-Sep-2022 11:12:22 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/rsintanh/it.rsintanhusada.com/it/updailyactivity.php on line 5
+[26-Sep-2022 12:46:57 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[26-Sep-2022 12:46:57 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[26-Sep-2022 12:46:57 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[26-Sep-2022 12:46:57 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[26-Sep-2022 13:29:13 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[26-Sep-2022 13:29:13 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[26-Sep-2022 13:29:13 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[26-Sep-2022 13:29:13 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[27-Sep-2022 08:30:32 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[27-Sep-2022 08:30:32 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[27-Sep-2022 08:30:32 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[27-Sep-2022 08:30:32 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[27-Sep-2022 11:02:00 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[27-Sep-2022 11:02:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[27-Sep-2022 11:02:00 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[27-Sep-2022 11:02:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[27-Sep-2022 14:00:52 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[27-Sep-2022 14:00:52 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[27-Sep-2022 14:00:52 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[27-Sep-2022 14:00:52 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[27-Sep-2022 14:29:48 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/rsintanh/it.rsintanhusada.com/it/updailyactivity.php on line 5
+[27-Sep-2022 14:31:00 Asia/Jakarta] PHP Notice:  Undefined variable: _SESSION in /home/rsintanh/it.rsintanhusada.com/it/updailyactivity.php on line 5
+[27-Sep-2022 15:37:51 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[27-Sep-2022 15:37:51 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[27-Sep-2022 15:37:51 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[27-Sep-2022 15:37:51 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[27-Sep-2022 15:37:51 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[27-Sep-2022 15:37:51 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 71
+[27-Sep-2022 15:37:51 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[27-Sep-2022 15:37:51 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[28-Sep-2022 07:55:16 Asia/Jakarta] PHP Notice:  Undefined index: id_tlf in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 15
+[28-Sep-2022 07:55:16 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 07:55:16 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 07:55:16 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 07:55:16 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 07:55:16 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 07:55:16 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 07:55:16 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 07:56:07 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 07:56:07 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 07:56:07 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 07:56:07 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 07:56:07 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 07:56:07 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 07:56:07 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 08:09:29 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 08:09:29 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 08:09:29 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 08:09:29 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 08:09:29 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 08:09:29 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 08:09:29 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 08:13:02 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 08:13:02 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 08:13:02 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 08:13:02 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 08:13:02 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 08:13:02 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 08:13:02 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 08:14:15 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 08:14:15 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 08:14:15 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 08:14:15 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 08:14:15 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 08:14:15 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 08:14:15 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 08:48:33 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 08:48:33 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 08:48:33 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 08:48:33 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 08:48:33 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 08:48:33 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 08:48:33 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 08:53:27 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 08:53:27 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 08:53:27 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 08:53:27 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 08:53:27 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 08:53:27 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 08:53:27 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 08:53:34 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 08:53:34 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 08:53:34 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 08:53:34 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 08:53:34 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 08:53:34 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 08:53:34 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 08:53:38 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 20
+[28-Sep-2022 08:53:38 Asia/Jakarta] PHP Notice:  Undefined index: tipe in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 08:53:38 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 29
+[28-Sep-2022 08:53:38 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 34
+[28-Sep-2022 08:53:38 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 39
+[28-Sep-2022 08:53:38 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 44
+[28-Sep-2022 08:53:38 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 49
+[28-Sep-2022 08:54:12 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 08:54:12 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 30
+[28-Sep-2022 08:54:12 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 35
+[28-Sep-2022 08:54:12 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 40
+[28-Sep-2022 08:54:12 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 45
+[28-Sep-2022 08:55:20 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 08:55:20 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 30
+[28-Sep-2022 08:55:20 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 35
+[28-Sep-2022 08:55:20 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 40
+[28-Sep-2022 08:55:20 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 45
+[28-Sep-2022 08:57:27 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 10
+[28-Sep-2022 08:57:56 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 10
+[28-Sep-2022 08:57:59 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 10
+[28-Sep-2022 09:00:53 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 09:00:53 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 30
+[28-Sep-2022 09:00:53 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 35
+[28-Sep-2022 09:00:53 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 40
+[28-Sep-2022 09:00:53 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 45
+[28-Sep-2022 09:00:59 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 09:00:59 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 30
+[28-Sep-2022 09:00:59 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 35
+[28-Sep-2022 09:00:59 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 40
+[28-Sep-2022 09:00:59 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 45
+[28-Sep-2022 09:01:06 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 09:01:06 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 30
+[28-Sep-2022 09:01:06 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 35
+[28-Sep-2022 09:01:06 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 40
+[28-Sep-2022 09:01:06 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 45
+[28-Sep-2022 09:01:36 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 09:01:36 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 30
+[28-Sep-2022 09:01:36 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 35
+[28-Sep-2022 09:01:36 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 40
+[28-Sep-2022 09:01:36 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 45
+[28-Sep-2022 09:01:40 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 09:01:40 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 30
+[28-Sep-2022 09:01:40 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 35
+[28-Sep-2022 09:01:40 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 40
+[28-Sep-2022 09:01:40 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 45
+[28-Sep-2022 09:01:49 Asia/Jakarta] PHP Notice:  Undefined index: desc_barang in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 09:01:49 Asia/Jakarta] PHP Notice:  Undefined index: lokasi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 30
+[28-Sep-2022 09:01:49 Asia/Jakarta] PHP Notice:  Undefined index: extensi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 35
+[28-Sep-2022 09:01:49 Asia/Jakarta] PHP Notice:  Undefined index: tgl_garansi in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 40
+[28-Sep-2022 09:01:49 Asia/Jakarta] PHP Notice:  Undefined index: tgl_terima in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 45
+[28-Sep-2022 09:02:06 Asia/Jakarta] PHP Notice:  Undefined index: kendala in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 25
+[28-Sep-2022 09:04:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 14
+[28-Sep-2022 09:05:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 14
+[28-Sep-2022 09:05:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 14
+[28-Sep-2022 09:11:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:11:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:12:13 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:12:16 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:12:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:12:23 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:12:35 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:12:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:12:47 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 19
+[28-Sep-2022 09:20:25 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 21
+[28-Sep-2022 09:20:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 21
+[28-Sep-2022 09:21:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 21
+[28-Sep-2022 09:41:36 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 09:41:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 09:41:49 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 09:41:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 09:41:57 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 09:42:00 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/rsintanh/it.rsintanhusada.com/it/detailact.php on line 22
+[28-Sep-2022 09:51:17 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[28-Sep-2022 09:51:17 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 88
+[28-Sep-2022 09:51:17 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[28-Sep-2022 09:51:17 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[28-Sep-2022 09:51:17 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[28-Sep-2022 09:51:17 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 88
+[28-Sep-2022 09:51:17 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 80
+[28-Sep-2022 09:51:17 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/dailyactivity.php on line 93
+[28-Sep-2022 10:52:31 Asia/Jakarta] PHP Notice:  Undefined index: nama_lengkap in /home/rsintanh/it.rsintanhusada.com/it/navbar.php on line 4
+[28-Sep-2022 10:52:31 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/it.rsintanhusada.com/it/menu.php on line 88
